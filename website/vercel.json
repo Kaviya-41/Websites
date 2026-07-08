@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "bakkery-site",
+  "builds": [
+    { "src": "bakkery.html", "use": "@vercel/static" },
+    { "src": "bakkery.css", "use": "@vercel/static" },
+    { "src": "bakkery.js", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/bakkery.html" }
+  ]
+}
