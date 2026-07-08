@@ -2,6 +2,8 @@
 
 This is a small static site. The repository includes a `vercel.json` config and a `package.json` script to simplify deployment.
 
+link: https://bakkery-site.vercel.app
+
 Quick deploy (CLI):
 
 1. Install the Vercel CLI or use npx:
