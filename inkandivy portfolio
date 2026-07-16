@@ -1,0 +1,76 @@
+Live link:https://inkandivy.vercel.app/
+
+# 🌿 InkandIvy
+
+InkandIvy is a modern Pinterest-inspired web application designed to help users discover and organize aesthetic inspiration across categories like home décor, fashion, DIY, lifestyle, productivity, and more.
+
+## ✨ Features
+
+- Responsive Pinterest-style masonry grid
+- Modern and minimal UI
+- Dark & Light mode
+- Search and category filtering
+- Smooth animations with Framer Motion
+- Infinite scrolling
+- Lazy image loading
+- Mobile-first responsive design
+- SEO-friendly
+- Optimized for Vercel deployment
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- React Router
+- Lucide React
+- JavaScript (ES6+)
+
+## 📂 Project Structure
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── layouts/
+├── hooks/
+├── data/
+├── utils/
+├── App.jsx
+└── main.jsx
+```
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Kaviya-41/inkandivy.git
+```
+
+Navigate to the project:
+
+```bash
+cd inkandivy
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🎨 Design Inspiration
+
+Inspired by Pinterest, Apple, and modern editorial design with a focus on clean layouts, smooth animations, and an elegant user experience.
+
+## 📄 License
+
+This project is open source and available under the MIT License.
